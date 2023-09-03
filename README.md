@@ -65,7 +65,7 @@ This documentation outlines two APIs:
 **Note**: Replace `YOUR_OPENWEATHERMAP_API_KEY` with your actual OpenWeatherMap API key when making requests to the OpenWeatherMap API.
 
 # Screenshot
-![screenshot](https://github.com/Mirza-Hassan/Vue_homework/assets/17096257/1ddab141-5d11-44ef-a53a-a86a80339ea6)
+![screenshot](https://github.com/Mirza-Hassan/Vue_homework/assets/17096257/36957954-a21b-486f-aabd-d33c782f1697)
 
 # Application Flow
 [demo.webm](https://github.com/Mirza-Hassan/Vue_homework/assets/17096257/756e0c1b-3711-4d55-9ea7-76cbbab7a90b)
