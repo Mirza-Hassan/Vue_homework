@@ -6,7 +6,7 @@ Description: Weather Trio: Random, City, Quiz - Weather at your fingertips.
 
 - [Pre Requisites/Setup Instructions](#pre-requisites)
 - [API Documentation](#api-documentation)
-- [Screenshot/Demo/Live URL](#screenshot)
+- [Screenshot/Demo](#screenshot)
 
 # Pre Requisites
 
@@ -69,6 +69,3 @@ This documentation outlines two APIs:
 
 # Application Flow
 [demo.webm](https://github.com/Mirza-Hassan/Vue_homework/assets/17096257/756e0c1b-3711-4d55-9ea7-76cbbab7a90b)
-
-# Live URL 
-[https://weather-trio.netlify.app](https://weather-trio.netlify.app/)
